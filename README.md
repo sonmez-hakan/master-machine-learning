@@ -1,4 +1,4 @@
-# Machine Learning
+# BM5702 Machine Learning
 ### Uludag University 2022 - 20223 
 
 This repository is about Machine Learning Class.
